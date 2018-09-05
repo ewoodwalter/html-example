@@ -1,0 +1,15 @@
+.blue-text {
+    color: blue;
+}
+.red-text {
+    color: red;
+}
+.green-text {
+    color: green;
+}
+.bold-text {
+    font-weight: bold; 
+}
+#app {
+    font-family: sans-serif;
+}
